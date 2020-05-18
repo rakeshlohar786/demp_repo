@@ -5,3 +5,8 @@ Food Processing System for following Items
 
 3. Rava
 4. Poha
+
+New Processing Version
+
+5. Urad Daal
+6. Tur Daal
